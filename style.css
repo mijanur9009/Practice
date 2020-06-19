@@ -1,0 +1,59 @@
+.my-btn{background: green;
+color: honeydew;
+padding: 0 50px;
+font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.my-btn:hover{
+    background-color: hotpink;
+    color: lawngreen;
+}
+.mijanur{
+    text-align: center;
+}
+.box{
+    background-color: rgb(15, 184, 133);
+    text-align: center;
+    color: maroon;
+    font-size: 25px;
+}
+.icon i{
+    font-size: 50px;
+    color: rebeccapurple;
+    background-color: royalblue;
+    padding: 10px;
+
+}
+.icon{text-align: center;
+margin-top: 20px;
+background: royalblue;
+
+}
+.potaka{
+    background-color: rgb(10, 131, 62);
+    height: 250px;
+    width: 100%;
+    margin-top: 10px;
+    position: relative;
+}
+.red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.bas{
+    position: absolute;
+    left: 0;
+    height: 400px;
+    width: 50px;
+    background-color: saddlebrown;
+}
